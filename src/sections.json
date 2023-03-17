@@ -1,0 +1,32 @@
+[
+{
+    "id": 1,
+    "title": "Tempature Converter",
+    "description": "Conversions between Celcius-Fahrenheit-Kelvin",
+    "image": ""
+},
+{
+    "id": 2,
+    "title": "Rock Paper Scissors",
+    "description": "Simple game of Rock Paper Scissors agains computer",
+    "image": ""
+},
+{
+    "id": 3,
+    "title": "Higher or Lower",
+    "description": "A game where you try to guess a random number",
+    "image": ""
+},
+{
+    "id": 4,
+    "title": "Tic-Tac-Toe",
+    "description": "Play Tic-Tac-Toe against a friends of yours overboard (Not against the compuer)",
+    "image": ""
+},
+{
+    "id": 5,
+    "title": "Project Euler",
+    "description": "Project Euler's first questions with to do steps",
+    "image": ""
+}
+]
